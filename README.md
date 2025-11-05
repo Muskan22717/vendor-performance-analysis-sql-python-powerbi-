@@ -120,14 +120,14 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard]("D:\project1\image\Vendor Performance Dashboard.png")
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/Muskan22717/vendor-performance-analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
@@ -141,7 +141,7 @@ python scripts/get_vendor_summary.py
    - `notebooks/exploratory_data_analysis.ipynb`
    - `notebooks/vendor_performance_analysis.ipynb`
 6. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+   - `"dashboard/vendor performance dashboard.pbix"`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
